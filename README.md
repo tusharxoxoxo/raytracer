@@ -7,4 +7,4 @@ and we will take some color from each of those collisions and determine what col
 
 -> we will be using the ppm image format, it is a strange image format 
 
-![Query Plan with node replacement](creating-the-sample-ppm/Screenshot 2024-01-24 at 3.29.08 PM.jpg)
+![Query Plan with node replacement](https://raw.githubusercontent.com/tusharxoxoxo/raytracer/main/creating-the-sample-ppm/Screenshot%202024-01-24%20at%203.29.08%E2%80%AFPM.jpg)
